@@ -1,3 +1,9 @@
 # Markup Example Title - Test
+## This is a subdirectory
+### This is for sub sub for the base dirctory as a test
 
-### This is for upload for the base dirctory as a test
+This is an image
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwiki.openstreetmap.org%2Fwiki%2FKey%3Asport&psig=AOvVaw3usz6ObIKItDdqjwoKzzJh&ust=1604191627207000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDtv9PN3ewCFQAAAAAdAAAAABAD)
+
+
+This is a link to another directory
